@@ -1,10 +1,7 @@
-# QuestTugasUserInput_0011
+# Layout Input
 
-Aplikasi Android Form Biodata menggunakan Jetpack Compose dengan Material 3.
+<img width="295" height="607" alt="Screenshot 2026-10-17 001654" src="https://github.com/user-attachments/assets/02a4b466-0af2-4efe-99b4-448868a88cb7" />
 
-## Fitur Utama
-- Form Input Biodata (Nama Depan, Nama Belakang, Email, Tgl Lahir, Experience)
-- Pilihan Skill dengan Checkbox (Android, UI/UX, Web)
-- Penggunaan Android Resources untuk Strings, Colors, Drawables, dan Dimens
-- Desain Floating Card diatas Scaffold
-- Tampilan Hasil Submit Biodata
+# Layout Output
+
+<img width="278" height="605" alt="Screenshot 2026-10-17 001714" src="https://github.com/user-attachments/assets/09a9d9eb-deb5-4d3d-a48c-79049da6b495" />
