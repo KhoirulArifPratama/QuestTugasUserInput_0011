@@ -8,4 +8,12 @@
     <string name="hint_email">Email</string>
     <string name="hint_tgl_lahir">Tgl Lahir</string>
     <string name="hint_experience">Experience</string>
+    <string name="title_pilih_skill">Pilih Skill Anda :</string>
+    <string name="skill_android">Android</string>
+    <string name="skill_ui_ux">UI/UX</string>
+    <string name="skill_web">Web</string>
+    <string name="btn_proceed">Proceed</string>
+    <string name="content_desc_background">Background Form Header</string>
+    <string name="content_desc_calendar">Calendar Icon</string>
+    <string name="content_desc_dropdown">Dropdown Icon</string>
 </resources>
