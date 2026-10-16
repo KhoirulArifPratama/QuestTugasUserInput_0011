@@ -13,7 +13,14 @@
     <string name="skill_ui_ux">UI/UX</string>
     <string name="skill_web">Web</string>
     <string name="btn_proceed">Proceed</string>
+    <string name="btn_reset">Isi Ulang Biodata</string>
     <string name="content_desc_background">Background Form Header</string>
     <string name="content_desc_calendar">Calendar Icon</string>
     <string name="content_desc_dropdown">Dropdown Icon</string>
+    <string name="success_title">Biodata Berhasil Disimpan!</string>
+    <string name="submitted_nama_label">Nama Lengkap :</string>
+    <string name="submitted_email_label">Email :</string>
+    <string name="submitted_tgl_lahir_label">Tanggal Lahir :</string>
+    <string name="submitted_experience_label">Pengalaman :</string>
+    <string name="submitted_skill_label">Skill :</string>
 </resources>
